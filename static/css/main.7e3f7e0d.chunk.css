@@ -1,0 +1,2 @@
+*{margin:0;padding:0;box-sizing:border-box}body{display:grid;place-content:center;height:100vh;text-align:center}button{outline:none;border:none;background-color:teal;color:#fff}button,form,input{padding:1em;border-radius:5px}form{display:-webkit-flex;display:flex;-webkit-justify-content:space-around;justify-content:space-around}.container{border:5px solid teal;padding:1.5em;border-radius:5px}
+/*# sourceMappingURL=main.7e3f7e0d.chunk.css.map */
