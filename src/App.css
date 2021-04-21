@@ -18,6 +18,7 @@ button {
 }
 form, button, input {
     padding: 1em;
+    border-radius: 5px;
 }
 
 form {
@@ -27,4 +28,6 @@ form {
 .container {
     border: 5px solid teal;
     padding: 1.5em;
+    border-radius: 5px;
+
 }
